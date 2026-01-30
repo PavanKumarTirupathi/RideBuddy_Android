@@ -85,7 +85,7 @@ The design process involved understanding user pain points related to trust, spe
 RideBuddy highlights skills in problem definition, user-centered design, information hierarchy, and high-fidelity UI design, making it a strong portfolio project that demonstrates practical UX decision-making and modern design execution.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href= https://github.com/PavanKumarTirupathi/RideBuddy_Android/blob/6e7aa6ab7a3f32b2877dbfebcafa9f23c3d15a89/Ride%20Buddy%20Project%20Report.pdf target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
@@ -101,9 +101,23 @@ RideBuddy highlights skills in problem definition, user-centered design, informa
 ## **Learnings from LST and SST**
 
 <!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+LST: LST at SURE Trust is about character, ethics, and mindset. Since the organization has roots in values-based education these sessions likely taught you:
+
+Personality Branding: I didn't just learn to make a resume; I learned how to present "the best version of myself" to the world.
+
+Lateral Thinking: In UI/UX, there is never just one solution. LST taught you how to think outside the box to solve user problems in ways others might miss.
+
+The Spirit of Service: I learned that your work as a designer has a social impact. It’s not just about business; it’s about making life easier for people (especially rural or underserved users).
+
+Resilience & Discipline: SURE Trust is known for being strict. LST helped you build the mental toughness to handle pressure, meet deadlines, and stay committed even when the work got hard.
+
+SST: If LST was about who I am, SST was about how I interact. For a UI/UX designer, these are the skills that get your designs approved:
+
+The Art of Communication: I learned that being a great designer is useless if I can't explain my ideas. SST taught me how to speak clearly, listen actively, and present my prototypes with confidence.
+
+Mock Interviews & Grooming: I likely practiced how to handle tough questions and how to dress and behave in a professional setting.
+
+Feedback Management: In UI/UX, "critique" is part of the job. SST taught me how to take constructive criticism without taking it personally—using it to improve your design instead.
 
 ## **Community Services**
 
@@ -113,13 +127,13 @@ During my internship period, I participated in multiple community-oriented activ
 
 ### **Activities Involved**
 <!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
+
   
  <!-- add the location where you have panted -->
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
   <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+- **Helping Elder Citizens** – Assisted four elderly individuals with simple daily tasks and provided support where needed. 
 
 <!-- you can write impacts according to your experience in your words-->
 
