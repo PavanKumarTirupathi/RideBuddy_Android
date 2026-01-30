@@ -19,7 +19,7 @@
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
     <p><strong>Name:</strong> Pavan Kumar Tirupathi </p>
-    <p><strong>Email ID:</strong> pavantirupati25@GMAIL.COM </p>
+    <p><strong>Email ID:</strong> avantirupati25@gmaial.com </p>
     <p><strong>College Name:</strong> Panimalar Engineering College </p>
     <p><strong>Branch/Specialization :</strong> Electronic and Communication Engineering </p>
     <p><strong>College ID:</strong> 211422106467 </p>
@@ -29,20 +29,20 @@
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> UI/UX Design </p>
+    <p><strong>Instructor Name:</strong> Sen Ghirri Sudhan </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> 6 </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> Sen Ghirri Sudhan </p>
+<p><strong>Trainer Email ID:</strong> senghirrisudhan@gmail.com </p>
+<p><strong>Trainer Designation:</strong> Sr. UiUx Design </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,56 +63,32 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+I completed a 6-month UI/UX Design training program at SureTrust, under the guidance of Ghirri Sudhan. During this training period, I developed a strong foundation in UI/UX design principles, including user research, information architecture, wireframing, and high-fidelity UI design. I gained hands-on experience working with design tools like Figma and applied mobile-first design approaches to real-world projects. The training also helped me improve my understanding of usability, visual hierarchy, consistency, and user-centered problem solving through practical design exercises and projects.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a> Ride Buddy </p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: Ride Buddy </h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+  RideBuddy was designed to address common problems in everyday commuting, such as difficulty finding nearby rides, lack of clarity in ride details, and complex booking flows in existing ride-sharing applications. The goal of the project was to create a seamless and intuitive experience that allows users to discover, evaluate, and book rides with minimal effort.
+
+The design process involved understanding user pain points related to trust, speed, and usability in ride-sharing platforms. Based on these insights, the solution focuses on simplified user flows, clear ride information, and a clean interface that guides users naturally through the journey from ride discovery to confirmation. A mobile-first approach was adopted to ensure accessibility and ease of use for daily commuters.
+
+RideBuddy highlights skills in problem definition, user-centered design, information hierarchy, and high-fidelity UI design, making it a strong portfolio project that demonstrates practical UX decision-making and modern design execution.
 </p>
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 
 ## **References**
